@@ -1,0 +1,113 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+a{
+	text-decoration:none;
+}
+
+
+.header{
+	background-image:url(../img/banner.jpg);
+   background-size: cover;
+   background-position:center;
+   height:77vh;
+   background-repeat: no-repeat;
+   width:100%;
+  position: relative;
+
+}
+
+.head h1{
+	position: absolute;
+    font-size: 68px;
+    font-weight: 800;
+    top: 420px;
+    right:625px;
+    color: darkgreen;
+    text-shadow: 3px 11px black;
+    text-transform: uppercase;
+}
+.nav-bar{
+	width:100%;
+	background-color: #10325b;
+	padding:10px;
+
+}
+.nav-bar ul li{
+list-style: none;
+display: inline-block;
+margin-left:22px;
+padding-top:10px;
+}
+
+.nav-bar ul li a{
+	color:white;
+	font-size:17px;
+	
+	font-family:;
+	font-weight:600;
+	
+}
+
+.bg-2 ul li{
+
+padding-left: 20px;
+
+}
+
+.photo {
+    background-color:#51657e;
+    width:100%;
+	padding:41px;
+	padding-bottom: 55px;
+    margin-top:20px;
+}
+
+
+.book-fair{
+
+	width:100%;
+    
+    padding: 66px 11px
+	background-color: white;
+	    box-shadow: 6px 20px 11px 9px;
+    margin-top: 35px;
+}
+
+
+.book-fair h1{
+	color:white;
+	background-color: tomato;
+	text-align: center;
+	font-weight:800;
+	font-size:48px;
+	letter-spacing:2px; 
+width: 111%;
+    height: 57px;
+    line-height: 57px
+ 
+
+}
+
+.book-fair p{
+	
+	    margin-left: 15px;
+	    width: 106%;
+    
+}
+
+
+.book-fair img{
+	    margin-left:48px;
+    margin-top: 25px;
+    width: 469px;
+    height: 270px;
+}
+
+.description{
+	background-color: #194158;
+	padding:40px;
+	margin-top:40px;
+}
